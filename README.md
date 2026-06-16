@@ -112,7 +112,7 @@ that solve real operational problems.
 ### 🏫 eSchool Link — School ERP Platform
 <a href="https://eschoollink.com/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF2D20"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Laravel</text></svg>&nbsp;<svg width="62" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="62" height="24" rx="5" fill="#4FC08D"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Vue.js</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/eschool/eschool-1.webp" width="60%" style="border-radius:10px;" alt="eSchool Link" />
+<img src="https://birukworku.vercel.app/images/projects/eschool/eschool-1.webp" width="36%" style="border-radius:10px;" alt="eSchool Link" />
 
 > End-to-end education management platform covering the full lifecycle of an institution — from student admission and enrollment through to assessment, graduation, and administration. Built with a robust HR engine for teacher recruitment, transfers, leave, promotions, discipline, and clearance. Configurable for public schools, private institutions, and international environments.
 >
@@ -123,7 +123,7 @@ that solve real operational problems.
 ### 🌐 Lyu Hub — Multi-Tenant SaaS Platform
 <a href="https://lyuhub.com/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="62" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="62" height="24" rx="5" fill="#4FC08D"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Vue.js</text></svg>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF2D20"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Laravel</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/lyu-hub/lyu-1.webp" width="60%" style="border-radius:10px;" alt="Lyu Hub" />
+<img src="https://birukworku.vercel.app/images/projects/lyu-hub/lyu-1.webp" width="36%" style="border-radius:10px;" alt="Lyu Hub" />
 
 > Multi-tenant platform powering customizable websites, resume building, recruitment workflows, and company management — all under one roof.
 
@@ -132,7 +132,7 @@ that solve real operational problems.
 ### 🏨 Kenenisa Hotel — Hospitality Management System
 <a href="https://kenenisaevertt.com/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="70" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="70" height="24" rx="5" fill="#000000"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Next.js</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>&nbsp;<svg width="60" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="60" height="24" rx="5" fill="#005C84"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">MySQL</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/kenenisa/kenenisa-1.webp" width="60%" style="border-radius:10px;" alt="Kenenisa Hotel" />
+<img src="https://birukworku.vercel.app/images/projects/kenenisa/kenenisa-1.webp" width="36%" style="border-radius:10px;" alt="Kenenisa Hotel" />
 
 > Full hotel management platform — room booking, guest services, event management, and customer engagement for a premium Ethiopian hospitality brand.
 
@@ -141,7 +141,7 @@ that solve real operational problems.
 ### 🔐 E-CYSA — Ethiopian Cyber Security Association
 <a href="https://www.e-cysa.org/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="62" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="62" height="24" rx="5" fill="#4FC08D"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Vue.js</text></svg>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF2D20"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Laravel</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/ecysa/ecysa-1.webp" width="60%" style="border-radius:10px;" alt="E-CYSA" />
+<img src="https://birukworku.vercel.app/images/projects/ecysa/ecysa-1.webp" width="36%" style="border-radius:10px;" alt="E-CYSA" />
 
 > Official platform for the Ethiopian Cyber Security Association — membership management, events calendar, and multilingual CMS.
 
@@ -150,7 +150,7 @@ that solve real operational problems.
 ### 💆 Skinsational Aesthetics — MedSpa CRM Automation
 <svg width="116" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="116" height="24" rx="5" fill="#0d9488"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">GoHighLevel</text></svg>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF4A00"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Zapier</text></svg>&nbsp;<svg width="84" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="84" height="24" rx="5" fill="#6366F1"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Webhooks</text></svg>&nbsp;<svg width="70" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="70" height="24" rx="5" fill="#1f2937"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#9ca3af">🔒 Private</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/skinsational/skinsational.webp" width="60%" style="border-radius:10px;" alt="Skinsational" />
+<img src="https://birukworku.vercel.app/images/projects/skinsational/skinsational.webp" width="36%" style="border-radius:10px;" alt="Skinsational" />
 
 > Full CRM and funnel automation for a MedSpa brand — lead acquisition, appointment sync, and multi-platform edge-case handling via GoHighLevel.
 
