@@ -2,7 +2,7 @@
 
 # Biruk Worku
 
-### Full-Stack Systems Engineer
+### Full-Stack Systems Engineer · AI Automation Builder
 
 <br/>
 
@@ -62,6 +62,7 @@ that solve real operational problems.
 
 - 🏗️ &nbsp;I build **scalable architectures** — clean data models, robust APIs, modular systems
 - ⚡ &nbsp;I automate business workflows with **n8n, GoHighLevel, Zapier & Make.com**
+- 🤖 &nbsp;I build **AI-powered automation** — LLM integrations, intelligent pipelines & agent workflows
 - 💳 &nbsp;I integrate **Ethiopian fintech** — Chappa, Telebirr, Afromessage OTP
 - 🎥 &nbsp;I run **BR7 Tutorial** — teaching **255K+ developers** across 5 platforms
 - 🌍 &nbsp;Mission: make production-level engineering education accessible in Ethiopia
@@ -111,16 +112,18 @@ that solve real operational problems.
 ### 🏫 eSchool Link — School ERP Platform
 <a href="https://eschoollink.com/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF2D20"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Laravel</text></svg>&nbsp;<svg width="62" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="62" height="24" rx="5" fill="#4FC08D"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Vue.js</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/eschool/eschool-1.webp" width="100%" style="border-radius:10px;" alt="eSchool Link" />
+<img src="https://birukworku.vercel.app/images/projects/eschool/eschool-1.webp" width="60%" style="border-radius:10px;" alt="eSchool Link" />
 
-> Comprehensive school management ERP for KG–Grade 12. Academic records, admin workflows, fee collection, and parent communication — all in one platform.
+> End-to-end education management platform covering the full lifecycle of an institution — from student admission and enrollment through to assessment, graduation, and administration. Built with a robust HR engine for teacher recruitment, transfers, leave, promotions, discipline, and clearance. Configurable for public schools, private institutions, and international environments.
+>
+> `Student Info` · `Academic Records` · `Timetable` · `Attendance` · `School Fees` · `Discipline` · `HR & Recruitment` · `Teacher-Parent Comms` · `Reporting & Analytics`
 
 ---
 
 ### 🌐 Lyu Hub — Multi-Tenant SaaS Platform
 <a href="https://lyuhub.com/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="62" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="62" height="24" rx="5" fill="#4FC08D"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Vue.js</text></svg>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF2D20"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Laravel</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/lyu-hub/lyu-1.webp" width="100%" style="border-radius:10px;" alt="Lyu Hub" />
+<img src="https://birukworku.vercel.app/images/projects/lyu-hub/lyu-1.webp" width="60%" style="border-radius:10px;" alt="Lyu Hub" />
 
 > Multi-tenant platform powering customizable websites, resume building, recruitment workflows, and company management — all under one roof.
 
@@ -129,7 +132,7 @@ that solve real operational problems.
 ### 🏨 Kenenisa Hotel — Hospitality Management System
 <a href="https://kenenisaevertt.com/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="70" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="70" height="24" rx="5" fill="#000000"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Next.js</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>&nbsp;<svg width="60" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="60" height="24" rx="5" fill="#005C84"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">MySQL</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/kenenisa/kenenisa-1.webp" width="100%" style="border-radius:10px;" alt="Kenenisa Hotel" />
+<img src="https://birukworku.vercel.app/images/projects/kenenisa/kenenisa-1.webp" width="60%" style="border-radius:10px;" alt="Kenenisa Hotel" />
 
 > Full hotel management platform — room booking, guest services, event management, and customer engagement for a premium Ethiopian hospitality brand.
 
@@ -138,7 +141,7 @@ that solve real operational problems.
 ### 🔐 E-CYSA — Ethiopian Cyber Security Association
 <a href="https://www.e-cysa.org/"><svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#16a34a"/><text x="10" y="16" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="white">🔗 Live Site</text></svg></a>&nbsp;<svg width="62" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="62" height="24" rx="5" fill="#4FC08D"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Vue.js</text></svg>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF2D20"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Laravel</text></svg>&nbsp;<svg width="88" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="24" rx="5" fill="#3178C6"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">TypeScript</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/ecysa/ecysa-1.webp" width="100%" style="border-radius:10px;" alt="E-CYSA" />
+<img src="https://birukworku.vercel.app/images/projects/ecysa/ecysa-1.webp" width="60%" style="border-radius:10px;" alt="E-CYSA" />
 
 > Official platform for the Ethiopian Cyber Security Association — membership management, events calendar, and multilingual CMS.
 
@@ -147,7 +150,7 @@ that solve real operational problems.
 ### 💆 Skinsational Aesthetics — MedSpa CRM Automation
 <svg width="116" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="116" height="24" rx="5" fill="#0d9488"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">GoHighLevel</text></svg>&nbsp;<svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#FF4A00"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Zapier</text></svg>&nbsp;<svg width="84" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="84" height="24" rx="5" fill="#6366F1"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Webhooks</text></svg>&nbsp;<svg width="70" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="70" height="24" rx="5" fill="#1f2937"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#9ca3af">🔒 Private</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/skinsational/skinsational.webp" width="100%" style="border-radius:10px;" alt="Skinsational" />
+<img src="https://birukworku.vercel.app/images/projects/skinsational/skinsational.webp" width="60%" style="border-radius:10px;" alt="Skinsational" />
 
 > Full CRM and funnel automation for a MedSpa brand — lead acquisition, appointment sync, and multi-platform edge-case handling via GoHighLevel.
 
@@ -156,7 +159,7 @@ that solve real operational problems.
 ### 🛒 Guilt Shop — Real-Time E-Commerce
 <svg width="68" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="68" height="24" rx="5" fill="#0553B1"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Flutter</text></svg>&nbsp;<svg width="70" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="70" height="24" rx="5" fill="#000000"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Next.js</text></svg>&nbsp;<svg width="80" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="80" height="24" rx="5" fill="#010101"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="white">Socket.io</text></svg>&nbsp;<svg width="82" height="24" xmlns="http://www.w3.org/2000/svg"><rect width="82" height="24" rx="5" fill="#374151"/><text x="8" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#9ca3af">📦 Archived</text></svg>
 
-<img src="https://birukworku.vercel.app/images/projects/guilt-shop/gulit-1.webp" width="100%" style="border-radius:10px;" alt="Guilt Shop" />
+<img src="https://birukworku.vercel.app/images/projects/guilt-shop/gulit-1.webp" width="20%" style="border-radius:10px;" alt="Guilt Shop" />
 
 > E-commerce app with real-time driver tracking via Socket.io and integrated local payment systems.
 
