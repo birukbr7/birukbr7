@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Custom SVG Social Links -->
-<a href="https://birukworku.vercel.app/">
+<a href="https://birukworku.com/">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=0f0f0f&logoColor=white&style=for-the-badge" height="32"/>
 </a>&nbsp;
 <a href="mailto:birukbr19@gmail.com">
